@@ -1,9 +1,0 @@
-htmlcov/
-.mypy_cache/
-*.py[cod]
-env/
-.tox/
-build/
-.coverage
-venv/
-.venv/
