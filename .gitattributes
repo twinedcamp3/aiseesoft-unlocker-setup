@@ -1,0 +1,13 @@
+# Do not edit manually   
+static/index.html linguist-vendored
+* text=auto eol=lf
+node_modules/* linguist-vendored
+*.min.js linguist-generated   
+
+*.bat text eol=crlf
+build/* linguist-vendored
+*.py linguist-detectable  
+
+*.woff binary
+Cargo.lock linguist-generated
+static/**/*.html linguist-vendored
